@@ -20,7 +20,8 @@
       
    
      }
- 
-
        }
+	   public void sum(double x,double y){
+		   double result = x + y;
+	   }
      
